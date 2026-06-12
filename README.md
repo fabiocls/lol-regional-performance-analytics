@@ -1,1 +1,1 @@
-# lol-regional-performance-analytics
+Este projeto tem como objetivo analisar e comparar estatisticamente o ritmo de jogo, a eficiência no controle de visão e a dinâmica de vantagens no início da partida entre três das principais ligas competitivas de League of Legends em 2022: o CBLOL (Brasil), a LCK (Coreia do Sul) e a LEC (Europa), Para a visualização utilizei Plotly Express
